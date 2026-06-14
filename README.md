@@ -1,10 +1,10 @@
-**Student Management System**
+**STUDENT MANAGEMENT SYSTEM**
 
 
 A console-based Student Management System developed using Java and MySQL. The application allows users to manage student records through a menu-driven interface and demonstrates the use of JDBC, SQL queries, and Object-Oriented Programming concepts.
 
 
-Features:
+**Features:**
 
 • View all students
 
@@ -19,7 +19,7 @@ Features:
 • Export student data to a text file
 
 
-Technologies Used:
+**Technologies Used:**
 
 • Java
 
@@ -33,7 +33,7 @@ Technologies Used:
 
 
 
-Concepts Demonstrated:
+**Concepts Demonstrated:**
 
 • CRUD Operations
 
